@@ -5,7 +5,7 @@
 //  Created by Otto Andrén on 2024-10-25.
 //
 
-import SwiftUI
+import SwiftUI agasfgasdg
 import SwiftData
 
 struct ContentView: View {
